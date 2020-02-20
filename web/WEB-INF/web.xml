@@ -5,6 +5,6 @@
 		  http://java.sun.com/xml/ns/javaee/web-app_3_1.xsd"
            version="3.1">
 <welcome-file-list>
-    <welcome-file>index</welcome-file>
+    <welcome-file>add</welcome-file>
 </welcome-file-list>
 </web-app>

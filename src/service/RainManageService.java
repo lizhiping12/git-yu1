@@ -16,4 +16,7 @@ public class RainManageService {
     public List<RainManage> getAllInfo() {
         return rainManageDao.getAllInfo();
     }
+    public int addNewRainInfo(RainManage rain){
+        return rainManageDao.addNewRainInfo(rain);
+    }
 }
