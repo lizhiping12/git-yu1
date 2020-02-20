@@ -48,7 +48,7 @@
     </tbody>
   </table>
     <div class="add">
-      <a class="add" href="void(0)">新增雨量检测信息</a>
+      <a class="add" href="add.jsp">新增雨量检测信息</a>
     </div>
   </div>
   </body>

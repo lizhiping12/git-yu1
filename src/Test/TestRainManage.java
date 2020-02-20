@@ -25,5 +25,7 @@ public class TestRainManage {
         rain.setMonitorTime(new Date());
 
         dao.addNewRainInfo(rain);
+        System.out.println(service.addNewRainInfo(rain));
+
     }
 }
